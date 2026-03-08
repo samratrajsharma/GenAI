@@ -1,4 +1,3 @@
-content = """
 # Generative AI Workspace
 
 This repository serves as a personal workspace for exploring, implementing, and experimenting with concepts in **Generative Artificial Intelligence**. It functions as a continuous learning environment where different architectures, pipelines, and methodologies related to modern AI systems are studied and implemented through practical experimentation.
@@ -205,9 +204,3 @@ Focus Areas:
 - Deep Learning Systems  
 - AI Research and Engineering
 """
-
-path = "/mnt/data/ReadMe.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(content)
-
-path
